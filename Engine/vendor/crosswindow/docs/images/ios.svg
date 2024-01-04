@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 640 317.2" style="enable-background:new 0 0 640 317.2;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#BFC2C7;}
+	.st1{fill:#070707;}
+	.st2{fill:url(#SVGID_1_);}
+	.st3{fill:#2E2F2F;}
+	.st4{fill:#0071BC;stroke:#2E2F2F;stroke-width:2.1502;stroke-miterlimit:10;}
+	.st5{fill:#262728;}
+	.st6{fill:#1F2021;}
+	.st7{fill:#1B1C1C;}
+	.st8{fill:#222323;}
+	.st9{fill:#1D1E1E;}
+</style>
+<title>ios</title>
+<g id="iOS">
+	<g>
+		<polygon class="st0" points="138.3,10.8 135.1,0 181.3,0 177,10.8 		"/>
+		<polygon class="st0" points="197.4,306.4 194.2,317.2 240.4,317.2 236.1,306.4 		"/>
+		<polygon class="st0" points="139.4,306.4 136.2,317.2 182.4,317.2 178.1,306.4 		"/>
+		<polygon class="st0" points="78.8,306.4 77,317.2 102.8,317.2 100.4,306.4 		"/>
+		<path class="st1" d="M636.8,48.9v219.3c-0.1,22.5-18.3,40.8-40.9,40.9H44.1C21.5,309,3.3,290.8,3.2,268.2V48.9
+			C3.3,26.4,21.5,8.1,44.1,8.1h551.8C618.5,8.1,636.7,26.4,636.8,48.9z"/>
+		
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-729.8132" y1="1296.5005" x2="-422.3374" y2="1296.5005" gradientTransform="matrix(0 -1 1 0 -976.5005 -417.4995)">
+			<stop  offset="0" style="stop-color:#ADACAC"/>
+			<stop  offset="1" style="stop-color:#605E5E"/>
+		</linearGradient>
+		<path class="st2" d="M3.2,48.9C3.3,26.4,21.5,8.1,44.1,8.1h551.8c22.5,0.1,40.8,18.3,40.9,40.9v219.3
+			c-0.1,22.5-18.3,40.8-40.9,40.9H44.1C21.5,309,3.3,290.8,3.2,268.2V48.9 M0,48.9v219.3c0,24.3,19.7,44.1,44.1,44.1h551.8
+			c24.3,0,44.1-19.7,44.1-44.1V48.9c0-24.3-19.7-44.1-44.1-44.1H44.1C19.7,4.9,0,24.6,0,48.9z"/>
+	</g>
+	<g id="Layer_3">
+		<path class="st3" d="M25.5,134.9v47.3c0,1.2-1,2.1-2.2,2.2l0,0c-1.2,0-2.1-1-2.2-2.2v-47.3c0-1.2,1-2.1,2.2-2.2l0,0
+			C24.5,132.8,25.5,133.7,25.5,134.9z"/>
+		<circle class="st4" cx="23.3" cy="120.3" r="4.3"/>
+	</g>
+</g>
+<path class="st5" d="M590,11.3H50c-22.1,0.1-39.9,17.9-40,40v38.1h20.3c6.6,0,12,5.4,12,12v96c0,6.6-5.4,12-12,12H10v56.6
+	c0.1,22.1,17.9,39.9,40,40h540c22.1-0.1,39.9-17.9,40-40V51.3C629.9,29.2,612.1,11.3,590,11.3z"/>
+<g id="Logo">
+	<polygon class="st6" points="272,124 272,108 288,108 320,140 320,156 304,156 	"/>
+	<polygon class="st7" points="336,156 320,156 320,140 352,108 368,108 368,124 	"/>
+	<polygon class="st8" points="320,172 320,156 336,156 368,188 368,204 352,204 	"/>
+	<polygon class="st9" points="288,204 272,204 272,188 304,156 320,156 320,172 	"/>
+</g>
+</svg>

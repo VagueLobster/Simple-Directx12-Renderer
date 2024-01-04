@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 640 360" style="enable-background:new 0 0 640 360;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#28292B;}
+	.st1{fill:#212223;}
+	.st2{fill:#1C1D1F;}
+	.st3{fill:#232426;}
+	.st4{fill:#1E1F20;}
+	.st5{display:none;fill:#F2F2F2;}
+	.st6{fill:#707173;}
+	.st7{fill:url(#Topbar_Gradient_1_);}
+	.st8{fill:#FF5A52;stroke:#FF5A52;stroke-miterlimit:10;}
+	.st9{fill:#54C22B;stroke:#54C22B;stroke-miterlimit:10;}
+	.st10{fill:#E6C029;stroke:#E6C029;stroke-miterlimit:10;}
+</style>
+<g>
+	<rect y="22.9" class="st0" width="640" height="337.1"/>
+	<g id="Logo">
+		<polygon class="st1" points="272,148 272,132 288,132 320,164 320,180 304,180 		"/>
+		<polygon class="st2" points="336,180 320,180 320,164 352,132 368,132 368,148 		"/>
+		<polygon class="st3" points="320,196 320,180 336,180 368,212 368,228 352,228 		"/>
+		<polygon class="st4" points="288,228 272,228 272,212 304,180 320,180 320,196 		"/>
+	</g>
+</g>
+<g>
+	<g id="MacOS">
+		<path id="White_Background" class="st5" d="M5,12h630c2.8,0,5,2.2,5,5v338c0,2.8-2.2,5-5,5H5c-2.8,0-5-2.2-5-5V17
+			C0,14.2,2.2,12,5,12z"/>
+		<path id="Topbar_Highlight" class="st6" d="M640,21.9H0V5c0-2.8,2.2-5,5-5h630c2.8,0,5,2.2,5,5V21.9z"/>
+		
+			<linearGradient id="Topbar_Gradient_1_" gradientUnits="userSpaceOnUse" x1="360" y1="-110.9262" x2="360" y2="-89" gradientTransform="matrix(1 0 0 -1 -40 -88)">
+			<stop  offset="0" style="stop-color:#38393B"/>
+			<stop  offset="1" style="stop-color:#444548"/>
+		</linearGradient>
+		<path id="Topbar_Gradient" class="st7" d="M640,22.9H0V6c0-2.8,2.2-5,5-5h630c2.8,0,5,2.2,5,5V22.9z"/>
+		<g id="Close_Min_Max">
+			<circle class="st8" cx="14" cy="11" r="5.5"/>
+			<circle class="st9" cx="54" cy="11" r="5.5"/>
+			<circle class="st10" cx="34" cy="11" r="5.5"/>
+		</g>
+	</g>
+</g>
+</svg>
